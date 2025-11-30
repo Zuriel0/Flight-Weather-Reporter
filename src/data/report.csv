@@ -1,0 +1,3001 @@
+origin,destination,airline,flight_num,origin_temp,origin_desc,dest_temp,dest_desc
+TLC,MTY,4O,104,16.1,Partly Cloudy,18.7,Light drizzle
+MTY,TLC,4O,119,18.7,Light drizzle,16.1,Partly Cloudy
+MEX,MTY,4O,2100,17.3,Partly Cloudy,18.7,Light drizzle
+MTY,MEX,4O,2101,18.7,Light drizzle,17.3,Partly Cloudy
+MEX,MTY,4O,2102,17.3,Partly Cloudy,18.7,Light drizzle
+MEX,MTY,4O,2102,17.3,Partly Cloudy,18.7,Light drizzle
+MEX,MTY,4O,2102,17.3,Partly Cloudy,18.7,Light drizzle
+MEX,MTY,4O,2102,17.3,Partly Cloudy,18.7,Light drizzle
+MEX,MTY,4O,2102,17.3,Partly Cloudy,18.7,Light drizzle
+MEX,MTY,4O,2102,17.3,Partly Cloudy,18.7,Light drizzle
+MTY,MEX,4O,2103,18.7,Light drizzle,17.3,Partly Cloudy
+MEX,MTY,4O,2104,17.3,Partly Cloudy,18.7,Light drizzle
+MEX,MTY,4O,2104,17.3,Partly Cloudy,18.7,Light drizzle
+MEX,MTY,4O,2104,17.3,Partly Cloudy,18.7,Light drizzle
+MEX,MTY,4O,2106,17.3,Partly Cloudy,18.7,Light drizzle
+MEX,MTY,4O,2106,17.3,Partly Cloudy,18.7,Light drizzle
+MTY,MEX,4O,2107,18.7,Light drizzle,17.3,Partly Cloudy
+MEX,MTY,4O,2108,17.3,Partly Cloudy,18.7,Light drizzle
+MEX,MTY,4O,2108,17.3,Partly Cloudy,18.7,Light drizzle
+MEX,MTY,4O,2108,17.3,Partly Cloudy,18.7,Light drizzle
+MEX,MTY,4O,2110,17.3,Partly Cloudy,18.7,Light drizzle
+MTY,MEX,4O,2111,18.7,Light drizzle,17.3,Partly Cloudy
+MTY,MEX,4O,2111,18.7,Light drizzle,17.3,Partly Cloudy
+MEX,MTY,4O,2112,17.3,Partly Cloudy,18.7,Light drizzle
+MEX,MTY,4O,2112,17.3,Partly Cloudy,18.7,Light drizzle
+MTY,MEX,4O,2113,18.7,Light drizzle,17.3,Partly Cloudy
+MTY,MEX,4O,2117,18.7,Light drizzle,17.3,Partly Cloudy
+MTY,MEX,4O,2117,18.7,Light drizzle,17.3,Partly Cloudy
+MTY,MEX,4O,2117,18.7,Light drizzle,17.3,Partly Cloudy
+MTY,MEX,4O,2117,18.7,Light drizzle,17.3,Partly Cloudy
+MTY,MEX,4O,2117,18.7,Light drizzle,17.3,Partly Cloudy
+MEX,MTY,4O,2118,17.3,Partly Cloudy,18.7,Light drizzle
+MEX,MTY,4O,2118,17.3,Partly Cloudy,18.7,Light drizzle
+MTY,MEX,4O,2119,18.7,Light drizzle,17.3,Partly Cloudy
+MTY,MEX,4O,2119,18.7,Light drizzle,17.3,Partly Cloudy
+MTY,MEX,4O,2121,18.7,Light drizzle,17.3,Partly Cloudy
+MTY,MEX,4O,2121,18.7,Light drizzle,17.3,Partly Cloudy
+MTY,MEX,4O,2121,18.7,Light drizzle,17.3,Partly Cloudy
+MTY,MEX,4O,2121,18.7,Light drizzle,17.3,Partly Cloudy
+MTY,MEX,4O,2121,18.7,Light drizzle,17.3,Partly Cloudy
+MTY,MEX,4O,2121,18.7,Light drizzle,17.3,Partly Cloudy
+MTY,MEX,4O,2121,18.7,Light drizzle,17.3,Partly Cloudy
+MEX,MTY,4O,2122,17.3,Partly Cloudy,18.7,Light drizzle
+MEX,MTY,4O,2126,17.3,Partly Cloudy,18.7,Light drizzle
+MEX,MTY,4O,2126,17.3,Partly Cloudy,18.7,Light drizzle
+MTY,MEX,4O,2127,18.7,Light drizzle,17.3,Partly Cloudy
+MTY,MEX,4O,2127,18.7,Light drizzle,17.3,Partly Cloudy
+MTY,MEX,4O,2129,18.7,Light drizzle,17.3,Partly Cloudy
+MTY,MEX,4O,2129,18.7,Light drizzle,17.3,Partly Cloudy
+MTY,MEX,4O,2131,18.7,Light drizzle,17.3,Partly Cloudy
+MEX,MTY,4O,2132,17.3,Partly Cloudy,18.7,Light drizzle
+MEX,MTY,4O,2134,17.3,Partly Cloudy,18.7,Light drizzle
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2150,17.3,Partly Cloudy,23.2,Partly cloudy
+TAM,MEX,4O,2151,23.2,Partly cloudy,17.3,Partly Cloudy
+TAM,MEX,4O,2151,23.2,Partly cloudy,17.3,Partly Cloudy
+TAM,MEX,4O,2151,23.2,Partly cloudy,17.3,Partly Cloudy
+TAM,MEX,4O,2151,23.2,Partly cloudy,17.3,Partly Cloudy
+TAM,MEX,4O,2151,23.2,Partly cloudy,17.3,Partly Cloudy
+MEX,TAM,4O,2152,17.3,Partly Cloudy,23.2,Partly cloudy
+TAM,MEX,4O,2153,23.2,Partly cloudy,17.3,Partly Cloudy
+TAM,MEX,4O,2153,23.2,Partly cloudy,17.3,Partly Cloudy
+TAM,MEX,4O,2153,23.2,Partly cloudy,17.3,Partly Cloudy
+MEX,TAM,4O,2154,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2154,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2154,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2154,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2154,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2154,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2154,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2154,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2154,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2154,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2154,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2154,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2154,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2154,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2154,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2154,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2154,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2154,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2154,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,2154,17.3,Partly Cloudy,23.2,Partly cloudy
+TAM,MEX,4O,2155,23.2,Partly cloudy,17.3,Partly Cloudy
+TAM,MEX,4O,2155,23.2,Partly cloudy,17.3,Partly Cloudy
+TAM,MEX,4O,2155,23.2,Partly cloudy,17.3,Partly Cloudy
+TAM,MEX,4O,2155,23.2,Partly cloudy,17.3,Partly Cloudy
+TAM,MEX,4O,2155,23.2,Partly cloudy,17.3,Partly Cloudy
+TAM,MEX,4O,2157,23.2,Partly cloudy,17.3,Partly Cloudy
+TAM,MEX,4O,2157,23.2,Partly cloudy,17.3,Partly Cloudy
+TAM,MEX,4O,2157,23.2,Partly cloudy,17.3,Partly Cloudy
+TAM,MEX,4O,2157,23.2,Partly cloudy,17.3,Partly Cloudy
+TAM,MEX,4O,2157,23.2,Partly cloudy,17.3,Partly Cloudy
+MEX,GDL,4O,2200,17.3,Partly Cloudy,25.1,Partly cloudy
+GDL,MEX,4O,2201,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2201,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2203,25.1,Partly cloudy,17.3,Partly Cloudy
+MEX,GDL,4O,2204,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2204,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2204,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2206,17.3,Partly Cloudy,25.1,Partly cloudy
+GDL,MEX,4O,2207,25.1,Partly cloudy,17.3,Partly Cloudy
+MEX,GDL,4O,2208,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2210,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2210,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2210,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2210,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2210,17.3,Partly Cloudy,25.1,Partly cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2211,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2213,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2213,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2213,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2215,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2215,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2215,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2215,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2215,25.1,Partly cloudy,17.3,Partly Cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2216,17.3,Partly Cloudy,25.1,Partly cloudy
+GDL,MEX,4O,2217,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2217,25.1,Partly cloudy,17.3,Partly Cloudy
+MEX,GDL,4O,2220,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2220,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2220,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2220,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2220,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2220,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2222,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2224,17.3,Partly Cloudy,25.1,Partly cloudy
+GDL,MEX,4O,2225,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,4O,2227,25.1,Partly cloudy,17.3,Partly Cloudy
+MEX,GDL,4O,2228,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2228,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2228,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,4O,2228,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,CJS,4O,2283,17.3,Partly Cloudy,21.5,Sunny
+MEX,CJS,4O,2283,17.3,Partly Cloudy,21.5,Sunny
+CJS,MEX,4O,2284,21.5,Sunny,17.3,Partly Cloudy
+CJS,MEX,4O,2284,21.5,Sunny,17.3,Partly Cloudy
+MTY,GDL,4O,230,18.7,Light drizzle,25.1,Partly cloudy
+CUN,MEX,4O,2301,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,2301,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,2301,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,2301,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,2301,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,2301,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,2301,24.5,Overcast,17.3,Partly Cloudy
+MEX,CUN,4O,2302,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2302,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2302,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2302,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2302,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2302,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2302,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2302,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2302,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2302,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2302,17.3,Partly Cloudy,24.5,Overcast
+CUN,MEX,4O,2303,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,2303,24.5,Overcast,17.3,Partly Cloudy
+MEX,CUN,4O,2306,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2306,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2308,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2308,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2308,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2308,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2308,17.3,Partly Cloudy,24.5,Overcast
+CUN,MEX,4O,2309,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,2309,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,2309,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,2309,24.5,Overcast,17.3,Partly Cloudy
+MEX,CUN,4O,2310,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2310,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2310,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2310,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2310,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2310,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2310,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2310,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2310,17.3,Partly Cloudy,24.5,Overcast
+CUN,MEX,4O,2311,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,2311,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,2315,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,2315,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,2315,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,2315,24.5,Overcast,17.3,Partly Cloudy
+MEX,CUN,4O,2316,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2316,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2316,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2316,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2316,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2318,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2318,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2318,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2318,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2320,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2320,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2320,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2320,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2320,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2320,17.3,Partly Cloudy,24.5,Overcast
+CUN,MEX,4O,2325,24.5,Overcast,17.3,Partly Cloudy
+MEX,CUN,4O,2326,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2326,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2326,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2326,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2326,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2326,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2326,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2326,17.3,Partly Cloudy,24.5,Overcast
+CUN,MEX,4O,2329,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,2329,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,2329,24.5,Overcast,17.3,Partly Cloudy
+MEX,CUN,4O,2332,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2332,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2332,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2332,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2332,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2332,17.3,Partly Cloudy,24.5,Overcast
+MEX,CUN,4O,2332,17.3,Partly Cloudy,24.5,Overcast
+TIJ,MEX,4O,2401,21.1,Sunny,17.3,Partly Cloudy
+MEX,TIJ,4O,2408,17.3,Partly Cloudy,21.1,Sunny
+TIJ,MEX,4O,2409,21.1,Sunny,17.3,Partly Cloudy
+MEX,TIJ,4O,2410,17.3,Partly Cloudy,21.1,Sunny
+MEX,HMO,4O,2450,17.3,Partly Cloudy,26.1,Sunny
+HMO,MEX,4O,2455,26.1,Sunny,17.3,Partly Cloudy
+MEX,CME,4O,2503,17.3,Partly Cloudy,26.7,Sunny
+MEX,CME,4O,2503,17.3,Partly Cloudy,26.7,Sunny
+CME,MEX,4O,2506,26.7,Sunny,17.3,Partly Cloudy
+CME,MEX,4O,2506,26.7,Sunny,17.3,Partly Cloudy
+MEX,MID,4O,2522,17.3,Partly Cloudy,26.4,Partly cloudy
+MEX,MID,4O,2522,17.3,Partly Cloudy,26.4,Partly cloudy
+MID,MEX,4O,2525,26.4,Partly cloudy,17.3,Partly Cloudy
+MEX,MID,4O,2526,17.3,Partly Cloudy,26.4,Partly cloudy
+MID,MEX,4O,2527,26.4,Partly cloudy,17.3,Partly Cloudy
+MEX,CTM,4O,2544,17.3,Partly Cloudy,23.3,Light drizzle
+MEX,CTM,4O,2544,17.3,Partly Cloudy,23.3,Light drizzle
+CTM,MEX,4O,2547,23.3,Light drizzle,17.3,Partly Cloudy
+CTM,MEX,4O,2547,23.3,Light drizzle,17.3,Partly Cloudy
+CTM,MEX,4O,2547,23.3,Light drizzle,17.3,Partly Cloudy
+CTM,MEX,4O,2547,23.3,Light drizzle,17.3,Partly Cloudy
+CTM,MEX,4O,2547,23.3,Light drizzle,17.3,Partly Cloudy
+CTM,MEX,4O,2547,23.3,Light drizzle,17.3,Partly Cloudy
+MEX,CTM,4O,2548,17.3,Partly Cloudy,23.3,Light drizzle
+MEX,CTM,4O,2548,17.3,Partly Cloudy,23.3,Light drizzle
+MEX,CTM,4O,2548,17.3,Partly Cloudy,23.3,Light drizzle
+MEX,CTM,4O,2548,17.3,Partly Cloudy,23.3,Light drizzle
+CTM,MEX,4O,2549,23.3,Light drizzle,17.3,Partly Cloudy
+CTM,MEX,4O,2549,23.3,Light drizzle,17.3,Partly Cloudy
+VER,MEX,4O,2550,25.1,Overcast,17.3,Partly Cloudy
+VER,MEX,4O,2550,25.1,Overcast,17.3,Partly Cloudy
+MEX,VER,4O,2551,17.3,Partly Cloudy,25.1,Overcast
+MEX,VER,4O,2551,17.3,Partly Cloudy,25.1,Overcast
+MEX,VER,4O,2551,17.3,Partly Cloudy,25.1,Overcast
+MEX,VER,4O,2551,17.3,Partly Cloudy,25.1,Overcast
+MEX,VER,4O,2551,17.3,Partly Cloudy,25.1,Overcast
+MEX,VER,4O,2551,17.3,Partly Cloudy,25.1,Overcast
+MEX,VER,4O,2551,17.3,Partly Cloudy,25.1,Overcast
+VER,MEX,4O,2554,25.1,Overcast,17.3,Partly Cloudy
+VER,MEX,4O,2554,25.1,Overcast,17.3,Partly Cloudy
+VER,MEX,4O,2554,25.1,Overcast,17.3,Partly Cloudy
+VER,MEX,4O,2554,25.1,Overcast,17.3,Partly Cloudy
+VER,MEX,4O,2554,25.1,Overcast,17.3,Partly Cloudy
+VER,MEX,4O,2554,25.1,Overcast,17.3,Partly Cloudy
+VER,MEX,4O,2554,25.1,Overcast,17.3,Partly Cloudy
+VER,MEX,4O,2554,25.1,Overcast,17.3,Partly Cloudy
+VER,MEX,4O,2554,25.1,Overcast,17.3,Partly Cloudy
+VER,MEX,4O,2554,25.1,Overcast,17.3,Partly Cloudy
+VER,MEX,4O,2554,25.1,Overcast,17.3,Partly Cloudy
+VER,MEX,4O,2554,25.1,Overcast,17.3,Partly Cloudy
+VER,MEX,4O,2554,25.1,Overcast,17.3,Partly Cloudy
+VER,MEX,4O,2554,25.1,Overcast,17.3,Partly Cloudy
+MEX,OAX,4O,2626,17.3,Partly Cloudy,17.8,Patchy rain nearby
+OAX,MEX,4O,2629,17.8,Patchy rain nearby,17.3,Partly Cloudy
+MEX,HUX,4O,2651,17.3,Partly Cloudy,32.2,Patchy rain nearby
+MEX,HUX,4O,2651,17.3,Partly Cloudy,32.2,Patchy rain nearby
+HUX,MEX,4O,2652,32.2,Patchy rain nearby,17.3,Partly Cloudy
+HUX,MEX,4O,2652,32.2,Patchy rain nearby,17.3,Partly Cloudy
+MEX,ZIH,4O,2751,17.3,Partly Cloudy,33.0,Sunny
+MEX,ZIH,4O,2751,17.3,Partly Cloudy,33.0,Sunny
+MEX,ZIH,4O,2751,17.3,Partly Cloudy,33.0,Sunny
+MEX,ZIH,4O,2751,17.3,Partly Cloudy,33.0,Sunny
+MEX,ZIH,4O,2751,17.3,Partly Cloudy,33.0,Sunny
+PVR,MEX,4O,2760,28.8,Partly Cloudy,17.3,Partly Cloudy
+PVR,MEX,4O,2760,28.8,Partly Cloudy,17.3,Partly Cloudy
+PVR,MEX,4O,2760,28.8,Partly Cloudy,17.3,Partly Cloudy
+PVR,MEX,4O,2760,28.8,Partly Cloudy,17.3,Partly Cloudy
+PVR,MEX,4O,2760,28.8,Partly Cloudy,17.3,Partly Cloudy
+PVR,MEX,4O,2760,28.8,Partly Cloudy,17.3,Partly Cloudy
+PVR,MEX,4O,2760,28.8,Partly Cloudy,17.3,Partly Cloudy
+MEX,PVR,4O,2761,17.3,Partly Cloudy,28.8,Partly Cloudy
+MEX,PVR,4O,2761,17.3,Partly Cloudy,28.8,Partly Cloudy
+PVR,MEX,4O,2764,28.8,Partly Cloudy,17.3,Partly Cloudy
+MEX,PVR,4O,2765,17.3,Partly Cloudy,28.8,Partly Cloudy
+MEX,PVR,4O,2765,17.3,Partly Cloudy,28.8,Partly Cloudy
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,2892,17.3,Partly Cloudy,20.1,Sunny
+MEX,HAV,4O,2902,17.3,Partly Cloudy,22.2,Overcast
+MEX,BOG,4O,2930,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2930,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2930,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2930,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2930,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2930,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2930,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2930,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2930,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2930,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2930,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2930,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2930,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2930,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2930,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2930,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2930,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2930,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2930,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2930,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2930,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2930,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2930,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2930,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,BOG,4O,2932,17.3,Partly Cloudy,18.4,Partly cloudy
+MEX,MIA,4O,2960,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,4O,2960,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,4O,2960,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,LAX,4O,2972,17.3,Partly Cloudy,20.6,Sunny
+MEX,LAX,4O,2972,17.3,Partly Cloudy,20.6,Sunny
+MEX,JFK,4O,2990,17.3,Partly Cloudy,5.0,Partly cloudy
+MEX,TAM,4O,3142,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,3142,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,3142,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,3142,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,3142,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,3142,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,3142,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,3142,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,3142,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,3142,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,3142,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,3142,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,3142,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,3142,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,3142,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,3142,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,3142,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,3142,17.3,Partly Cloudy,23.2,Partly cloudy
+MEX,TAM,4O,3142,17.3,Partly Cloudy,23.2,Partly cloudy
+TAM,MEX,4O,3143,23.2,Partly cloudy,17.3,Partly Cloudy
+TAM,MEX,4O,3143,23.2,Partly cloudy,17.3,Partly Cloudy
+TAM,MEX,4O,3143,23.2,Partly cloudy,17.3,Partly Cloudy
+TAM,MEX,4O,3143,23.2,Partly cloudy,17.3,Partly Cloudy
+TAM,MEX,4O,3143,23.2,Partly cloudy,17.3,Partly Cloudy
+TAM,MEX,4O,3143,23.2,Partly cloudy,17.3,Partly Cloudy
+TAM,MEX,4O,3143,23.2,Partly cloudy,17.3,Partly Cloudy
+TAM,MEX,4O,3143,23.2,Partly cloudy,17.3,Partly Cloudy
+TAM,MEX,4O,3143,23.2,Partly cloudy,17.3,Partly Cloudy
+TAM,MEX,4O,3143,23.2,Partly cloudy,17.3,Partly Cloudy
+TAM,MEX,4O,3143,23.2,Partly cloudy,17.3,Partly Cloudy
+MEX,TRC,4O,3154,17.3,Partly Cloudy,29.2,Sunny
+MEX,PXM,4O,3250,17.3,Partly Cloudy,30.0,Sunny
+MEX,PXM,4O,3250,17.3,Partly Cloudy,30.0,Sunny
+PXM,MEX,4O,3251,30.0,Sunny,17.3,Partly Cloudy
+PXM,MEX,4O,3251,30.0,Sunny,17.3,Partly Cloudy
+MEX,CUN,4O,3300,17.3,Partly Cloudy,24.5,Overcast
+CUN,MEX,4O,3301,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,3301,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,3301,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,3301,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,3301,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,3301,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,3301,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,3301,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,3303,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,3303,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,3303,24.5,Overcast,17.3,Partly Cloudy
+CUN,MEX,4O,3303,24.5,Overcast,17.3,Partly Cloudy
+ACA,MEX,4O,3706,28.8,Sunny,17.3,Partly Cloudy
+MEX,ACA,4O,3707,17.3,Partly Cloudy,28.8,Sunny
+ZIH,MEX,4O,3752,33.0,Sunny,17.3,Partly Cloudy
+ZIH,MEX,4O,3752,33.0,Sunny,17.3,Partly Cloudy
+ZIH,MEX,4O,3752,33.0,Sunny,17.3,Partly Cloudy
+ZIH,MEX,4O,3752,33.0,Sunny,17.3,Partly Cloudy
+ZIH,MEX,4O,3752,33.0,Sunny,17.3,Partly Cloudy
+MEX,PVR,4O,3763,17.3,Partly Cloudy,28.8,Partly Cloudy
+MEX,PVR,4O,3763,17.3,Partly Cloudy,28.8,Partly Cloudy
+MEX,PVR,4O,3763,17.3,Partly Cloudy,28.8,Partly Cloudy
+MEX,PVR,4O,3763,17.3,Partly Cloudy,28.8,Partly Cloudy
+MEX,PVR,4O,3763,17.3,Partly Cloudy,28.8,Partly Cloudy
+MEX,PVR,4O,3763,17.3,Partly Cloudy,28.8,Partly Cloudy
+MEX,MZT,4O,3863,17.3,Partly Cloudy,32.4,Sunny
+MEX,GUA,4O,3914,17.3,Partly Cloudy,22.4,Partly cloudy
+TLC,MTY,4O,4116,16.1,Partly Cloudy,18.7,Light drizzle
+MTY,TLC,4O,4117,18.7,Light drizzle,16.1,Partly Cloudy
+AGU,MTY,4O,4191,22.3,Partly cloudy,18.7,Light drizzle
+AGU,MTY,4O,4191,22.3,Partly cloudy,18.7,Light drizzle
+CUN,MEX,4O,5317,24.5,Overcast,17.3,Partly Cloudy
+MEX,LIM,4O,5890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,5890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,5890,17.3,Partly Cloudy,20.1,Sunny
+MEX,LIM,4O,5890,17.3,Partly Cloudy,20.1,Sunny
+CUN,BOG,4O,6940,24.5,Overcast,18.4,Partly cloudy
+CUN,BOG,4O,6940,24.5,Overcast,18.4,Partly cloudy
+CUN,BOG,4O,940,24.5,Overcast,18.4,Partly cloudy
+CUN,MID,7M,26,24.5,Overcast,26.4,Partly cloudy
+MID,VER,7M,26,26.4,Partly cloudy,25.1,Overcast
+MID,VER,7M,26,26.4,Partly cloudy,25.1,Overcast
+MID,VSA,7M,26,26.4,Partly cloudy,27.2,Partly cloudy
+VSA,MID,7M,27,27.2,Partly cloudy,26.4,Partly cloudy
+VSA,MID,7M,27,27.2,Partly cloudy,26.4,Partly cloudy
+VSA,MID,7M,27,27.2,Partly cloudy,26.4,Partly cloudy
+VER,MID,7M,27,25.1,Overcast,26.4,Partly cloudy
+VER,MID,7M,27,25.1,Overcast,26.4,Partly cloudy
+CUN,BZE,9N,6611,24.5,Overcast,24.1,Light rain
+CUN,BZE,9N,6611,24.5,Overcast,24.1,Light rain
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1031,17.3,Partly Cloudy,23.3,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,1034,25.1,Partly cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1066,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1066,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1066,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1066,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1066,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1066,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1066,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1066,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1066,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1066,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1066,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1066,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1066,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1066,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1066,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1066,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1066,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1066,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1066,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1066,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1066,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1066,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1066,17.3,Partly Cloudy,16.1,Partly cloudy
+CUN,DFW,AA,1068,24.5,Overcast,16.1,Partly cloudy
+CUN,DFW,AA,1068,24.5,Overcast,16.1,Partly cloudy
+CUN,DFW,AA,1068,24.5,Overcast,16.1,Partly cloudy
+CUN,DFW,AA,1068,24.5,Overcast,16.1,Partly cloudy
+CUN,DFW,AA,1068,24.5,Overcast,16.1,Partly cloudy
+CUN,DFW,AA,1068,24.5,Overcast,16.1,Partly cloudy
+CUN,DFW,AA,1068,24.5,Overcast,16.1,Partly cloudy
+CUN,DFW,AA,1068,24.5,Overcast,16.1,Partly cloudy
+CUN,DFW,AA,1068,24.5,Overcast,16.1,Partly cloudy
+CUN,DFW,AA,1068,24.5,Overcast,16.1,Partly cloudy
+CUN,DFW,AA,1068,24.5,Overcast,16.1,Partly cloudy
+CUN,DFW,AA,1068,24.5,Overcast,16.1,Partly cloudy
+CUN,DFW,AA,1068,24.5,Overcast,16.1,Partly cloudy
+CUN,DFW,AA,1068,24.5,Overcast,16.1,Partly cloudy
+CUN,MIA,AA,1132,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1132,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1132,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1132,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1157,24.5,Overcast,23.3,Partly cloudy
+PVR,DFW,AA,1215,28.8,Partly Cloudy,16.1,Partly cloudy
+PVR,DFW,AA,1215,28.8,Partly Cloudy,16.1,Partly cloudy
+CZM,DFW,AA,1256,25.2,Overcast,16.1,Partly cloudy
+CZM,DFW,AA,1256,25.2,Overcast,16.1,Partly cloudy
+CZM,DFW,AA,1256,25.2,Overcast,16.1,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1285,24.5,Overcast,23.3,Partly cloudy
+PVR,DFW,AA,1288,28.8,Partly Cloudy,16.1,Partly cloudy
+PVR,DFW,AA,1288,28.8,Partly Cloudy,16.1,Partly cloudy
+CUN,JFK,AA,1327,24.5,Overcast,5.0,Partly cloudy
+CUN,DFW,AA,1343,24.5,Overcast,16.1,Partly cloudy
+GDL,DFW,AA,1372,25.1,Partly cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1374,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1374,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1374,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1374,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1374,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1374,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1374,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1374,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1374,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1374,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1374,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1374,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1374,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1374,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1374,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1374,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1374,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1374,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1397,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,1498,17.3,Partly Cloudy,23.3,Partly cloudy
+CUN,ORD,AA,1503,24.5,Overcast,-0.6,Sunny
+CUN,ORD,AA,1503,24.5,Overcast,-0.6,Sunny
+MEX,DFW,AA,1526,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1526,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1526,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1526,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1526,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1526,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1526,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1526,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,1526,17.3,Partly Cloudy,16.1,Partly cloudy
+CUN,MIA,AA,1536,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1536,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1536,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1536,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1536,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1536,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1536,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1536,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1536,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1536,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1536,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1536,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1536,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,1536,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,158,24.5,Overcast,23.3,Partly cloudy
+CUN,DFW,AA,1601,24.5,Overcast,16.1,Partly cloudy
+CUN,DFW,AA,1601,24.5,Overcast,16.1,Partly cloudy
+CUN,DFW,AA,1601,24.5,Overcast,16.1,Partly cloudy
+CUN,DFW,AA,1601,24.5,Overcast,16.1,Partly cloudy
+CUN,DFW,AA,1601,24.5,Overcast,16.1,Partly cloudy
+CUN,DFW,AA,1601,24.5,Overcast,16.1,Partly cloudy
+CUN,DFW,AA,1601,24.5,Overcast,16.1,Partly cloudy
+MEX,DFW,AA,2350,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,2350,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,2350,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,2350,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,2350,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,2350,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,2350,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,2350,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,2350,17.3,Partly Cloudy,16.1,Partly cloudy
+CUN,MIA,AA,2494,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,2494,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,2494,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,2494,24.5,Overcast,23.3,Partly cloudy
+CUN,MIA,AA,2494,24.5,Overcast,23.3,Partly cloudy
+MEX,LAX,AA,2544,17.3,Partly Cloudy,20.6,Sunny
+MEX,LAX,AA,2544,17.3,Partly Cloudy,20.6,Sunny
+MEX,LAX,AA,2544,17.3,Partly Cloudy,20.6,Sunny
+MEX,LAX,AA,2544,17.3,Partly Cloudy,20.6,Sunny
+MEX,LAX,AA,2544,17.3,Partly Cloudy,20.6,Sunny
+MEX,LAX,AA,2544,17.3,Partly Cloudy,20.6,Sunny
+MEX,LAX,AA,2546,17.3,Partly Cloudy,20.6,Sunny
+MEX,LAX,AA,2546,17.3,Partly Cloudy,20.6,Sunny
+MEX,LAX,AA,2546,17.3,Partly Cloudy,20.6,Sunny
+MEX,LAX,AA,2546,17.3,Partly Cloudy,20.6,Sunny
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,264,17.3,Partly Cloudy,23.3,Partly cloudy
+GDL,DFW,AA,2647,25.1,Partly cloudy,16.1,Partly cloudy
+CUN,DFW,AA,2684,24.5,Overcast,16.1,Partly cloudy
+CUN,DFW,AA,2684,24.5,Overcast,16.1,Partly cloudy
+CUN,DFW,AA,2684,24.5,Overcast,16.1,Partly cloudy
+CUN,DFW,AA,2684,24.5,Overcast,16.1,Partly cloudy
+CUN,DFW,AA,2684,24.5,Overcast,16.1,Partly cloudy
+HMO,PHX,AA,3158,26.1,Sunny,24.4,Sunny
+MTY,DFW,AA,3395,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3395,18.7,Light drizzle,16.1,Partly cloudy
+CUU,DFW,AA,3398,10.4,Partly cloudy,16.1,Partly cloudy
+TRC,DFW,AA,3428,29.2,Sunny,16.1,Partly cloudy
+MTY,DFW,AA,3451,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3451,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3451,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3515,18.7,Light drizzle,16.1,Partly cloudy
+QRO,DFW,AA,3517,20.3,Overcast,16.1,Partly cloudy
+QRO,DFW,AA,3517,20.3,Overcast,16.1,Partly cloudy
+QRO,DFW,AA,3517,20.3,Overcast,16.1,Partly cloudy
+QRO,DFW,AA,3517,20.3,Overcast,16.1,Partly cloudy
+QRO,DFW,AA,3517,20.3,Overcast,16.1,Partly cloudy
+QRO,DFW,AA,3517,20.3,Overcast,16.1,Partly cloudy
+QRO,DFW,AA,3517,20.3,Overcast,16.1,Partly cloudy
+QRO,DFW,AA,3517,20.3,Overcast,16.1,Partly cloudy
+QRO,DFW,AA,3517,20.3,Overcast,16.1,Partly cloudy
+QRO,DFW,AA,3517,20.3,Overcast,16.1,Partly cloudy
+PVR,DFW,AA,353,28.8,Partly Cloudy,16.1,Partly cloudy
+QRO,DFW,AA,3554,20.3,Overcast,16.1,Partly cloudy
+QRO,DFW,AA,3554,20.3,Overcast,16.1,Partly cloudy
+QRO,DFW,AA,3554,20.3,Overcast,16.1,Partly cloudy
+QRO,DFW,AA,3554,20.3,Overcast,16.1,Partly cloudy
+QRO,DFW,AA,3554,20.3,Overcast,16.1,Partly cloudy
+QRO,DFW,AA,3554,20.3,Overcast,16.1,Partly cloudy
+QRO,DFW,AA,3554,20.3,Overcast,16.1,Partly cloudy
+QRO,DFW,AA,3554,20.3,Overcast,16.1,Partly cloudy
+QRO,DFW,AA,3554,20.3,Overcast,16.1,Partly cloudy
+QRO,DFW,AA,3554,20.3,Overcast,16.1,Partly cloudy
+AGU,DFW,AA,3687,22.3,Partly cloudy,16.1,Partly cloudy
+AGU,DFW,AA,3687,22.3,Partly cloudy,16.1,Partly cloudy
+AGU,DFW,AA,3687,22.3,Partly cloudy,16.1,Partly cloudy
+AGU,DFW,AA,3687,22.3,Partly cloudy,16.1,Partly cloudy
+AGU,DFW,AA,3687,22.3,Partly cloudy,16.1,Partly cloudy
+AGU,DFW,AA,3687,22.3,Partly cloudy,16.1,Partly cloudy
+AGU,DFW,AA,3687,22.3,Partly cloudy,16.1,Partly cloudy
+AGU,DFW,AA,3687,22.3,Partly cloudy,16.1,Partly cloudy
+AGU,DFW,AA,3687,22.3,Partly cloudy,16.1,Partly cloudy
+AGU,DFW,AA,3691,22.3,Partly cloudy,16.1,Partly cloudy
+AGU,DFW,AA,3691,22.3,Partly cloudy,16.1,Partly cloudy
+AGU,DFW,AA,3691,22.3,Partly cloudy,16.1,Partly cloudy
+AGU,DFW,AA,3691,22.3,Partly cloudy,16.1,Partly cloudy
+MTY,DFW,AA,3701,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3701,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3701,18.7,Light drizzle,16.1,Partly cloudy
+BJX,DFW,AA,3704,21.7,Sunny,16.1,Partly cloudy
+BJX,DFW,AA,3704,21.7,Sunny,16.1,Partly cloudy
+BJX,DFW,AA,3704,21.7,Sunny,16.1,Partly cloudy
+MTY,DFW,AA,3743,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3743,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3743,18.7,Light drizzle,16.1,Partly cloudy
+MTY,DFW,AA,3842,18.7,Light drizzle,16.1,Partly cloudy
+GDL,DFW,AA,387,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,387,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,387,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,387,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,387,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,387,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,387,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,387,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,387,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,387,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,387,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,387,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,387,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,387,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,387,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,387,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,387,25.1,Partly cloudy,16.1,Partly cloudy
+MEX,DFW,AA,389,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,389,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,389,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,389,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,389,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,389,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,389,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,389,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,389,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,389,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,393,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,393,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,393,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,393,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,393,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,393,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,393,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,393,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,393,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,393,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,393,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,393,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,393,17.3,Partly Cloudy,16.1,Partly cloudy
+MEX,DFW,AA,393,17.3,Partly Cloudy,16.1,Partly cloudy
+PBC,DFW,AA,4072,17.8,Partly Cloudy,16.1,Partly cloudy
+MTY,MIA,AA,4349,18.7,Light drizzle,23.3,Partly cloudy
+MTY,MIA,AA,4349,18.7,Light drizzle,23.3,Partly cloudy
+MTY,MIA,AA,4349,18.7,Light drizzle,23.3,Partly cloudy
+MEX,PHX,AA,439,17.3,Partly Cloudy,24.4,Sunny
+MID,MIA,AA,4566,26.4,Partly cloudy,23.3,Partly cloudy
+MID,MIA,AA,4566,26.4,Partly cloudy,23.3,Partly cloudy
+MTY,MIA,AA,4741,18.7,Light drizzle,23.3,Partly cloudy
+MTY,MIA,AA,4741,18.7,Light drizzle,23.3,Partly cloudy
+MTY,MIA,AA,4741,18.7,Light drizzle,23.3,Partly cloudy
+MTY,MIA,AA,4741,18.7,Light drizzle,23.3,Partly cloudy
+MTY,MIA,AA,4741,18.7,Light drizzle,23.3,Partly cloudy
+MTY,MIA,AA,4741,18.7,Light drizzle,23.3,Partly cloudy
+MEX,PHL,AA,496,17.3,Partly Cloudy,5.3,Partly cloudy
+MEX,PHL,AA,496,17.3,Partly Cloudy,5.3,Partly cloudy
+MEX,PHL,AA,496,17.3,Partly Cloudy,5.3,Partly cloudy
+MEX,PHL,AA,496,17.3,Partly Cloudy,5.3,Partly cloudy
+MEX,PHL,AA,496,17.3,Partly Cloudy,5.3,Partly cloudy
+MEX,PHL,AA,496,17.3,Partly Cloudy,5.3,Partly cloudy
+MEX,PHL,AA,496,17.3,Partly Cloudy,5.3,Partly cloudy
+MEX,PHL,AA,496,17.3,Partly Cloudy,5.3,Partly cloudy
+MEX,PHX,AA,502,17.3,Partly Cloudy,24.4,Sunny
+MEX,PHX,AA,502,17.3,Partly Cloudy,24.4,Sunny
+MEX,PHX,AA,502,17.3,Partly Cloudy,24.4,Sunny
+MEX,PHX,AA,502,17.3,Partly Cloudy,24.4,Sunny
+MEX,PHX,AA,502,17.3,Partly Cloudy,24.4,Sunny
+MEX,PHX,AA,502,17.3,Partly Cloudy,24.4,Sunny
+MEX,MIA,AA,505,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,505,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,505,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,505,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,505,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,505,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,505,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,505,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,505,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,505,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,505,17.3,Partly Cloudy,23.3,Partly cloudy
+MEX,MIA,AA,505,17.3,Partly Cloudy,23.3,Partly cloudy
+SLP,DFW,AA,5781,18.3,Partly cloudy,16.1,Partly cloudy
+SLP,DFW,AA,5781,18.3,Partly cloudy,16.1,Partly cloudy
+SLP,DFW,AA,5781,18.3,Partly cloudy,16.1,Partly cloudy
+SLP,DFW,AA,5872,18.3,Partly cloudy,16.1,Partly cloudy
+SLP,DFW,AA,5872,18.3,Partly cloudy,16.1,Partly cloudy
+SLP,DFW,AA,5872,18.3,Partly cloudy,16.1,Partly cloudy
+SLP,DFW,AA,5872,18.3,Partly cloudy,16.1,Partly cloudy
+SLP,DFW,AA,5872,18.3,Partly cloudy,16.1,Partly cloudy
+SLP,DFW,AA,5872,18.3,Partly cloudy,16.1,Partly cloudy
+SLP,DFW,AA,5872,18.3,Partly cloudy,16.1,Partly cloudy
+SLP,DFW,AA,5872,18.3,Partly cloudy,16.1,Partly cloudy
+SLP,DFW,AA,5872,18.3,Partly cloudy,16.1,Partly cloudy
+SLP,DFW,AA,5872,18.3,Partly cloudy,16.1,Partly cloudy
+SLP,DFW,AA,5872,18.3,Partly cloudy,16.1,Partly cloudy
+SLP,DFW,AA,5872,18.3,Partly cloudy,16.1,Partly cloudy
+SLP,DFW,AA,5872,18.3,Partly cloudy,16.1,Partly cloudy
+GDL,DFW,AA,5891,25.1,Partly cloudy,16.1,Partly cloudy
+GDL,PHX,AA,5902,25.1,Partly cloudy,24.4,Sunny
+MEX,LAX,AA,816,17.3,Partly Cloudy,20.6,Sunny
+MEX,LAX,AA,816,17.3,Partly Cloudy,20.6,Sunny
+MEX,LAX,AA,816,17.3,Partly Cloudy,20.6,Sunny
+MEX,LAX,AA,816,17.3,Partly Cloudy,20.6,Sunny
+MEX,CLT,AA,828,17.3,Partly Cloudy,8.3,Sunny
+MEX,CLT,AA,828,17.3,Partly Cloudy,8.3,Sunny
+MEX,CLT,AA,828,17.3,Partly Cloudy,8.3,Sunny
+MEX,CLT,AA,828,17.3,Partly Cloudy,8.3,Sunny
+MEX,CLT,AA,828,17.3,Partly Cloudy,8.3,Sunny
+MEX,CLT,AA,828,17.3,Partly Cloudy,8.3,Sunny
+MEX,CLT,AA,828,17.3,Partly Cloudy,8.3,Sunny
+MEX,CLT,AA,828,17.3,Partly Cloudy,8.3,Sunny
+MEX,CLT,AA,828,17.3,Partly Cloudy,8.3,Sunny
+MEX,CLT,AA,828,17.3,Partly Cloudy,8.3,Sunny
+MEX,CLT,AA,828,17.3,Partly Cloudy,8.3,Sunny
+MEX,CLT,AA,828,17.3,Partly Cloudy,8.3,Sunny
+MEX,CLT,AA,828,17.3,Partly Cloudy,8.3,Sunny
+MEX,CLT,AA,843,17.3,Partly Cloudy,8.3,Sunny
+MEX,CLT,AA,843,17.3,Partly Cloudy,8.3,Sunny
+MEX,CLT,AA,843,17.3,Partly Cloudy,8.3,Sunny
+MEX,CLT,AA,843,17.3,Partly Cloudy,8.3,Sunny
+MEX,CLT,AA,843,17.3,Partly Cloudy,8.3,Sunny
+MEX,CLT,AA,843,17.3,Partly Cloudy,8.3,Sunny
+MEX,CLT,AA,843,17.3,Partly Cloudy,8.3,Sunny
+CUN,CLT,AA,884,24.5,Overcast,8.3,Sunny
+CUN,CLT,AA,886,24.5,Overcast,8.3,Sunny
+MEX,YYZ,AC,1981,17.3,Partly Cloudy,1.4,Partly cloudy
+MEX,YYZ,AC,1981,17.3,Partly Cloudy,1.4,Partly cloudy
+MEX,YYZ,AC,1981,17.3,Partly Cloudy,1.4,Partly cloudy
+MEX,YYZ,AC,1981,17.3,Partly Cloudy,1.4,Partly cloudy
+MEX,YYZ,AC,1981,17.3,Partly Cloudy,1.4,Partly cloudy
+MEX,YYZ,AC,1981,17.3,Partly Cloudy,1.4,Partly cloudy
+MEX,YYZ,AC,1981,17.3,Partly Cloudy,1.4,Partly cloudy
+MEX,YYZ,AC,1981,17.3,Partly Cloudy,1.4,Partly cloudy
+MEX,YYZ,AC,1983,17.3,Partly Cloudy,1.4,Partly cloudy
+MEX,YYZ,AC,1983,17.3,Partly Cloudy,1.4,Partly cloudy
+MEX,YYZ,AC,1983,17.3,Partly Cloudy,1.4,Partly cloudy
+MEX,YYZ,AC,1983,17.3,Partly Cloudy,1.4,Partly cloudy
+MEX,YYZ,AC,1983,17.3,Partly Cloudy,1.4,Partly cloudy
+MEX,YYZ,AC,1983,17.3,Partly Cloudy,1.4,Partly cloudy
+MEX,YYZ,AC,1983,17.3,Partly Cloudy,1.4,Partly cloudy
+MEX,YYZ,AC,1983,17.3,Partly Cloudy,1.4,Partly cloudy
+MEX,YYZ,AC,1983,17.3,Partly Cloudy,1.4,Partly cloudy
+MEX,YYZ,AC,1983,17.3,Partly Cloudy,1.4,Partly cloudy
+MEX,YYZ,AC,1983,17.3,Partly Cloudy,1.4,Partly cloudy
+GDL,IAH,AC,5657,25.1,Partly cloudy,17.8,Partly cloudy
+MEX,YVR,AC,997,17.3,Partly Cloudy,9.4,Partly cloudy
+MEX,YVR,AC,997,17.3,Partly Cloudy,9.4,Partly cloudy
+MEX,YVR,AC,997,17.3,Partly Cloudy,9.4,Partly cloudy
+MEX,YVR,AC,997,17.3,Partly Cloudy,9.4,Partly cloudy
+MEX,YVR,AC,997,17.3,Partly Cloudy,9.4,Partly cloudy
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,179,17.3,Partly Cloudy,9.0,Fog
+MEX,GDL,AF,3392,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AF,3392,17.3,Partly Cloudy,25.1,Partly cloudy
+CJS,MEX,AF,3393,21.5,Sunny,17.3,Partly Cloudy
+CJS,MEX,AF,3393,21.5,Sunny,17.3,Partly Cloudy
+MEX,PVR,AF,3396,17.3,Partly Cloudy,28.8,Partly Cloudy
+MEX,PVR,AF,3396,17.3,Partly Cloudy,28.8,Partly Cloudy
+MEX,GDL,AF,3399,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AF,3399,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AF,3399,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AF,3399,17.3,Partly Cloudy,25.1,Partly cloudy
+PVR,MEX,AF,3412,28.8,Partly Cloudy,17.3,Partly Cloudy
+PVR,MEX,AF,3412,28.8,Partly Cloudy,17.3,Partly Cloudy
+MEX,ZCL,AF,3439,17.3,Partly Cloudy,20.4,Sunny
+MEX,CDG,AF,8099,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,8099,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,8099,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,8099,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,8099,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,8099,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,8099,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,8099,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,8099,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,8099,17.3,Partly Cloudy,9.0,Fog
+MEX,CDG,AF,8099,17.3,Partly Cloudy,9.0,Fog
+GDL,MEX,AF,8135,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AF,8135,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AF,8135,25.1,Partly cloudy,17.3,Partly Cloudy
+MEX,CJS,AF,8158,17.3,Partly Cloudy,21.5,Sunny
+MEX,CJS,AF,8158,17.3,Partly Cloudy,21.5,Sunny
+MEX,AMS,AF,8457,17.3,Partly Cloudy,10.4,Partly cloudy
+MEX,AMS,AF,8457,17.3,Partly Cloudy,10.4,Partly cloudy
+MEX,AMS,AF,8457,17.3,Partly Cloudy,10.4,Partly cloudy
+MEX,AMS,AF,8457,17.3,Partly Cloudy,10.4,Partly cloudy
+MEX,AMS,AF,8457,17.3,Partly Cloudy,10.4,Partly cloudy
+MEX,AMS,AF,8457,17.3,Partly Cloudy,10.4,Partly cloudy
+MEX,AMS,AF,8457,17.3,Partly Cloudy,10.4,Partly cloudy
+MEX,ATL,AF,8787,17.3,Partly Cloudy,9.4,Partly cloudy
+MEX,ATL,AF,8787,17.3,Partly Cloudy,9.4,Partly cloudy
+MEX,CEN,AF,9969,17.3,Partly Cloudy,31.5,Sunny
+MEX,CEN,AF,9969,17.3,Partly Cloudy,31.5,Sunny
+MEX,CEN,AF,9969,17.3,Partly Cloudy,31.5,Sunny
+MEX,CEN,AF,9969,17.3,Partly Cloudy,31.5,Sunny
+ZCL,MEX,AF,9990,20.4,Sunny,17.3,Partly Cloudy
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,MAD,AM,1,17.3,Partly Cloudy,5.1,Clear
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,SCL,AM,10,17.3,Partly Cloudy,24.3,Sunny
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,100,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,104,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,104,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,104,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,104,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,104,17.3,Partly Cloudy,25.1,Partly cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,105,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,107,25.1,Partly cloudy,17.3,Partly Cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,108,17.3,Partly Cloudy,25.1,Partly cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,109,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,TIJ,AM,110,25.1,Partly cloudy,21.1,Sunny
+MEX,GDL,AM,1104,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,1120,17.3,Partly Cloudy,25.1,Partly cloudy
+MEX,GDL,AM,1120,17.3,Partly Cloudy,25.1,Partly cloudy
+GDL,MEX,AM,1127,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
+GDL,MEX,AM,113,25.1,Partly cloudy,17.3,Partly Cloudy
