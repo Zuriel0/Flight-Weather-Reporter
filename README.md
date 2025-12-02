@@ -21,8 +21,8 @@ This project is a Python-based tool that generates a comprehensive report correl
 
 1.  **Clone the repository**:
     ```bash
-    git clone <repository-url>
-    cd ECOM
+    git clone <https://github.com/Zuriel0/Flight-Weather-Reporter.git>
+    cd Flight-Weather-Reporter
     ```
 
 2.  **Create a virtual environment** (recommended):
