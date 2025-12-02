@@ -21,24 +21,7 @@ class WeatherService:
         return f"{airport.iata_code}:{date.today().isoformat()}"
 
     def _from_weatherapi_response(self, data: Dict) -> Weather:
-        """
-        Convierte el JSON de WeatherAPI al modelo Weather.
 
-        Estructura relevante (abreviada):
-        {
-          "location": {...},
-          "current": {
-            "temp_c": 23.0,
-            "condition": {
-              "text": "Partly cloudy",
-              "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
-              "code": 1003
-            },
-            ...
-          }
-        }
-        :contentReference[oaicite:6]{index=6}
-        """
         current = data.get("current", {})
         temp_c = current.get("temp_c")
         condition = current.get("condition", {}) or {}
@@ -56,10 +39,7 @@ class WeatherService:
         airport: Airport,
         session: aiohttp.ClientSession,
     ) -> Optional[Weather]:
-        """
-        Hace la llamada real a WeatherAPI con control de concurrencia y cachea resultado.
-        Devuelve Weather o None si algo sale mal.
-        """
+
         key = self._cache_key(airport)
 
         # 1) caché en memoria

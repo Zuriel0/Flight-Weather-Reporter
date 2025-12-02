@@ -27,22 +27,19 @@ class WeatherClient:
             "aqi": "no",
         }
 
-        url = f"{self.BASE_URL}/current.json"
+        url = f"{self.BASE_URL}/current.json" #endpoint
         async with session.get(url, params=params, timeout=10) as resp:
             if resp.status != 200:
                 text = await resp.text()
                 raise WeatherApiError(f"HTTP {resp.status}: {text}")
             return await resp.json()
 
-    async def fetch_current_by_iata(
+    async def fetch_current_by_iata(   #No se utilizo al final
         self,
         session: aiohttp.ClientSession,
         iata_code: str,
     ) -> Dict[str, Any]:
-        """
-        **Opcional**: usar q=iata:XXX si prefieres trabajar con códigos IATA.
-        WeatherAPI soporta q=iata:<código> (ej: iata:DXB). :contentReference[oaicite:5]{index=5}
-        """
+
         params = {
             "key": self.api_key,
             "q": f"iata:{iata_code}",
